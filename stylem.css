@@ -1,0 +1,33 @@
+@media screen {
+    :root {
+        padding: 0;
+        margin: 0;
+        font-size: 1rem;
+    }
+ 
+ 
+    .baner {
+    flex-wrap: wrap;
+    
+ }
+ .baner img {
+    width: 100%;
+
+
+ }  
+.baner {
+    font-size: 0.6rem;
+
+} 
+.bannner {
+padding: 20px;
+
+}
+
+.brand {
+    padding: 20px;
+
+}
+
+
+}
